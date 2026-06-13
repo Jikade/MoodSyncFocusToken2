@@ -22,7 +22,7 @@ MoodSync Focus Token is built for students, self-learners, and study communities
 
 * **Contract ID**: `CACRYT6VQFC5P7BCGXPBQKA57GJX7VXHE6XUJY2KECHUD2ZV6OK2ZOED`
 
-* **Transaction**: `Paste your Stellar Expert transaction link here after running a successful --send=yes command`
+* **Transaction**: 73752fe3ead02a08f5da4462772b15c49e1de06d81abacc39162b636128cae1f
 
 Example Stellar Expert format:
 
